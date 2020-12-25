@@ -1,0 +1,7 @@
+C:\Users\monul\OneDrive\Desktop\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\monul\OneDrive\Desktop\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\monul\OneDrive\Desktop\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\monul\OneDrive\Desktop\Lab3\bin\Debug\Lab3.exe
+C:\Users\monul\OneDrive\Desktop\Lab3\bin\Debug\Lab3.pdb
+C:\Users\monul\OneDrive\Desktop\Lab3\obj\Debug\Lab3.exe
+C:\Users\monul\OneDrive\Desktop\Lab3\obj\Debug\Lab3.pdb
